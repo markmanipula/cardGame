@@ -1,1 +1,1 @@
-A project in progress. Will develop this into a Blackjack card game.
+This project was developed in Swift. Will develop this simple card game into a Blackjack card game.
